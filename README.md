@@ -11,5 +11,5 @@ For this challenge, we will create visualizations that will do the following:
 
 ## Results:
 
-Deliverable 2 Dashboard
+Deliverable 2
 [Dashboard](https://public.tableau.com/app/profile/elena5828/viz/Module14Bikesharing/Module14Bikesharing?publish=yes)
